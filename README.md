@@ -1,5 +1,9 @@
 ### 👁 Philipp Panhey\'s profile
-![ppanhey rekursion](img/philipp_panhey_rekursion.gif?raw=true "ppanhey")
+<!-- ![ppanhey rekursion](img/philipp_panhey_rekursion.gif?raw=true "ppanhey") -->
+
+<p align="center">
+  <img src="img/philipp_panhey_rekursion.gif?raw=true" />
+</p>
 
 <!--
 **phpanhey/phpanhey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
