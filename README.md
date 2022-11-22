@@ -1,4 +1,4 @@
-### 👁 Philipp Panhey\'s profile
+<!-- ### 👁 Philipp Panhey\'s profile -->
 <!-- ![ppanhey rekursion](img/philipp_panhey_rekursion.gif?raw=true "ppanhey") -->
 
 <p align="center">
