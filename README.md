@@ -2,7 +2,7 @@
 <!-- ![ppanhey rekursion](img/philipp_panhey_rekursion.gif?raw=true "ppanhey") -->
 
 <p align="center">
-  <img src="img/philipp_panhey_rekursion.gif?raw=true" />
+  <img src="img/philipp_panhey_rotate.gif?raw=true" />
 </p>
 
 <!--
